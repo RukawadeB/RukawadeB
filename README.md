@@ -1,39 +1,37 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 349 Bytes Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2024
+> 📦 365 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                3 commits           ███████████████████░░░░░░   75.00 % 
-🌃 Evening                1 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌆 Daytime                4 commits           ████████████████████░░░░░   80.00 % 
+🌃 Evening                1 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  3 commits           ███████████████████░░░░░░   75.00 % 
+Tuesday                  4 commits           ████████████████████░░░░░   80.00 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 1 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Saturday                 1 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -79,5 +77,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2024 12:02:39 UTC
+ Last Updated on 08/10/2024 18:42:13 UTC
 <!--END_SECTION:waka-->
