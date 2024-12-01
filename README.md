@@ -1,6 +1,6 @@
 
 [![RukawadeB's GitHub stats](https://github-readme-stats.vercel.app/api?username=RukawadeB&hide=prs&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-<img align='center'src="https://github-readme-stats.vercel.app/api?username=RukawadeB&hide=prs&show_icons=true&theme=omni"/> `
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2010%20mins-blue)
