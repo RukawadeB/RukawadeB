@@ -1,6 +1,5 @@
 
 [![RukawadeB's GitHub stats](https://github-readme-stats.vercel.app/api?username=RukawadeB&hide=prs&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
