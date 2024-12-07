@@ -3,13 +3,15 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 460 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 13 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,7 +83,7 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2024 18:46:19 UTC
+ Last Updated on 07/12/2024 18:43:39 UTC
 <!--END_SECTION:waka-->
 
 
