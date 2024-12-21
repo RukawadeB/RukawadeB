@@ -3,7 +3,7 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -44,16 +44,13 @@ Sunday                   4 commits           ████████░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-Java                     2 hrs 31 mins       █████████████████████████   99.58 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Java                     2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 31 mins       █████████████████████████   99.58 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+IntelliJ IDEA            2 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hm-dianping              2 hrs 30 mins       █████████████████████████   99.45 % 
-Assignment 2             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+hm-dianping              2 hrs 30 mins       █████████████████████████   99.87 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
@@ -75,7 +72,7 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 18:42:41 UTC
+ Last Updated on 21/12/2024 18:40:14 UTC
 <!--END_SECTION:waka-->
 
 
