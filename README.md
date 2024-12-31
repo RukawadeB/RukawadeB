@@ -11,6 +11,8 @@
 
 > 📦 466 Bytes Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -44,19 +46,16 @@ Sunday                   4 commits           ████████░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-Java                     16 mins             █████████████████░░░░░░░░   67.99 % 
-YAML                     7 mins              ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-JeecgBoot                23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -74,7 +73,7 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2024 18:43:08 UTC
+ Last Updated on 31/12/2024 18:41:38 UTC
 <!--END_SECTION:waka-->
 
 
