@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 467 Bytes Used in GitHub's Storage 
+> 📦 468 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +44,18 @@ Sunday                   4 commits           ████████░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     57 mins             █████████████████░░░░░░░░   67.73 % 
+Markdown                 27 mins             ████████░░░░░░░░░░░░░░░░░   32.19 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 24 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+JeecgBoot                1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,7 +73,7 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2025 18:42:51 UTC
+ Last Updated on 03/01/2025 18:42:42 UTC
 <!--END_SECTION:waka-->
 
 
