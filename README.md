@@ -9,7 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 474 Bytes Used in GitHub's Storage 
+> 📦 475 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,7 +75,7 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2025 18:41:58 UTC
+ Last Updated on 17/01/2025 18:41:44 UTC
 <!--END_SECTION:waka-->
 
 
