@@ -3,15 +3,13 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 476 Bytes Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,18 +44,18 @@ Sunday                   4 commits           ████████░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-Java                     4 hrs 52 mins       ██████████████░░░░░░░░░░░   55.65 % 
-XML                      3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.18 % 
-YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Java                     3 hrs 21 mins       ███████████████████████░░   90.24 % 
+XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 46 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog-springboot          8 hrs 46 mins       █████████████████████████   100.00 % 
+blog-springboot          3 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -75,7 +73,7 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2025 18:41:03 UTC
+ Last Updated on 21/01/2025 18:43:19 UTC
 <!--END_SECTION:waka-->
 
 
