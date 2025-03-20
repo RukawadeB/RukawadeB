@@ -3,13 +3,15 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,22 +46,21 @@ Sunday                   7 commits           █████░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-Jupyter                  4 hrs 44 mins       ████████████████████░░░░░   81.32 % 
-Python                   1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Jupyter                  4 hrs 32 mins       ████████████████████░░░░░   80.67 % 
+Python                   1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 49 mins       █████████████████████████   100.00 % 
+PyCharm                  5 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Struc & Algorithms  2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.70 % 
-individual               1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-codes for the assignment 1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Data Analystic           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Data Struc & Algorithms  2 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.28 % 
+individual               1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+codes for the assignment 1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 💻 Operating System: 
-Mac                      5 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +78,7 @@ Vue                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 18:46:07 UTC
+ Last Updated on 20/03/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
 
 
