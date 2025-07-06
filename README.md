@@ -11,8 +11,6 @@
 
 > 📦 8.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -82,7 +80,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2025 18:45:58 UTC
+ Last Updated on 06/07/2025 18:47:07 UTC
 <!--END_SECTION:waka-->
 
 
