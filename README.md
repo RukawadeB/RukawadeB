@@ -3,15 +3,13 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 8.3 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2025
+> 📦 8.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,18 +44,19 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-TypeScript               47 mins             ██████████████████████░░░   87.02 % 
-Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               1 hr 23 mins        █████████████████████░░░░   83.80 % 
+CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TaxiApp                  54 mins             █████████████████████████   100.00 % 
+TaxiApp                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +76,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2025 18:50:57 UTC
+ Last Updated on 12/07/2025 18:48:40 UTC
 <!--END_SECTION:waka-->
 
 
