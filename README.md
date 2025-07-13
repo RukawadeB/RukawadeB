@@ -3,13 +3,15 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,19 +46,19 @@ Sunday                   10 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        █████████████████████░░░░   83.80 % 
-CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               4 hrs 44 mins       █████████████████████░░░░   85.77 % 
+CSS                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TaxiApp                  1 hr 39 mins        █████████████████████████   100.00 % 
+TaxiApp                  5 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +78,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2025 18:48:40 UTC
+ Last Updated on 13/07/2025 18:48:18 UTC
 <!--END_SECTION:waka-->
 
 
