@@ -11,8 +11,6 @@
 
 > 📦 8.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -62,13 +60,12 @@ TaxiApp                  7 hrs 31 mins       ███████████�
 Mac                      7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Jupyter Notebook** 
 
 ```text
+Jupyter Notebook         2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 Java                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
@@ -79,7 +76,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 18:53:27 UTC
+ Last Updated on 17/07/2025 18:54:08 UTC
 <!--END_SECTION:waka-->
 
 
