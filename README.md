@@ -3,7 +3,7 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -44,16 +44,22 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      32 mins             ██████████░░░░░░░░░░░░░░░   38.20 % 
+YAML                     31 mins             █████████░░░░░░░░░░░░░░░░   36.43 % 
+Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 5 mins         ███████████████████░░░░░░   76.33 % 
+WebStorm                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+JeecgBoot                1 hr 24 mins        █████████████████████████   99.25 % 
+SpringDataRedis          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,7 +79,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 18:44:25 UTC
+ Last Updated on 10/09/2025 18:47:06 UTC
 <!--END_SECTION:waka-->
 
 
