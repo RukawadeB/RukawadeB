@@ -46,22 +46,16 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-Markdown                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Python                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Bash                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 36 mins        ███████████████████████░░   90.36 % 
-IntelliJ IDEA            10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-WTG.Mcp.Inspector-main   1 hr 36 mins        ███████████████████████░░   90.36 % 
-JeecgBoot                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +75,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2025 18:47:26 UTC
+ Last Updated on 02/10/2025 18:45:07 UTC
 <!--END_SECTION:waka-->
 
 
