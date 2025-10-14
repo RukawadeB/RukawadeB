@@ -46,16 +46,20 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     0 secs              ███████████░░░░░░░░░░░░░░   45.39 % 
+Python                   0 secs              █████████░░░░░░░░░░░░░░░░   34.78 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Text                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WTG.Mcp.Inspector-main   1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +79,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2025 18:46:55 UTC
+ Last Updated on 14/10/2025 18:48:03 UTC
 <!--END_SECTION:waka-->
 
 
