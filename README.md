@@ -3,9 +3,9 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,16 +46,20 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-Java                     12 mins             █████████████████████████   100.00 % 
+Python                   1 hr 35 mins        █████████████████████░░░░   82.59 % 
+Java                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 
 🔥 Editors: 
-IntelliJ IDEA            12 mins             █████████████████████████   100.00 % 
+PyCharm                  1 hr 35 mins        █████████████████████░░░░   82.59 % 
+IntelliJ IDEA            20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 
 🐱‍💻 Projects: 
-FunStringOutput.java     12 mins             █████████████████████████   100.00 % 
+technicalInterview       1 hr 32 mins        ████████████████████░░░░░   80.50 % 
+FunStringOutput.java     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+pythonProject1           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +79,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 18:46:30 UTC
+ Last Updated on 04/11/2025 18:49:43 UTC
 <!--END_SECTION:waka-->
 
 
