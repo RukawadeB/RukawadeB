@@ -3,9 +3,9 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,17 +46,23 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-Python                   4 hrs 9 mins        █████████████████████████   99.93 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   3 hrs 32 mins       ███████████████████████░░   92.12 % 
+Java                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 9 mins        █████████████████████████   100.00 % 
+PyCharm                  3 hrs 32 mins       ███████████████████████░░   92.20 % 
+IntelliJ IDEA            17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🐱‍💻 Projects: 
-technicalInterview       4 hrs 9 mins        █████████████████████████   100.00 % 
+technicalInterview       3 hrs 32 mins       ███████████████████████░░   92.20 % 
+interview                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+电面常见题                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      4 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +82,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2025 18:48:45 UTC
+ Last Updated on 20/11/2025 18:50:43 UTC
 <!--END_SECTION:waka-->
 
 
