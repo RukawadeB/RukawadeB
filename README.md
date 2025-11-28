@@ -3,7 +3,7 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,24 +46,16 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-YAML                     1 hr 4 mins         ███████████░░░░░░░░░░░░░░   43.79 % 
-Python                   58 mins             ██████████░░░░░░░░░░░░░░░   39.86 % 
-GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 38 mins        █████████████████░░░░░░░░   67.31 % 
-Cursor                   48 mins             ████████░░░░░░░░░░░░░░░░░   32.69 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PRACTICAL8_CHAOQUN_HUANG_2 hrs 14 mins       ███████████████████████░░   91.73 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-PROJECT4_Chaoqun_HUANG_243 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Practical-5-Files        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +75,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 18:48:21 UTC
+ Last Updated on 28/11/2025 18:48:18 UTC
 <!--END_SECTION:waka-->
 
 
