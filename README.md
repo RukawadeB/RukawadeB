@@ -3,7 +3,7 @@
 ![RukawadeB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RukawadeB)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,16 +46,18 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 7 mins              ██████████████████████░░░   88.17 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+agentDocuments           7 mins              ██████████████████████░░░   88.17 % 
+modern-software-dev-assig1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +77,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 19:12:38 UTC
+ Last Updated on 06/02/2026 19:12:44 UTC
 <!--END_SECTION:waka-->
 
 
