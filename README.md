@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -46,17 +46,16 @@ Sunday                   38 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Dublin
 
 💬 Programming Languages: 
-C#                       33 mins             ████████████████████░░░░░   80.78 % 
-XML                      7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ConsoleApp1              41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +75,7 @@ Vue                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RukawadeB/RukawadeB/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2026 19:35:20 UTC
+ Last Updated on 07/04/2026 19:36:19 UTC
 <!--END_SECTION:waka-->
 
 
